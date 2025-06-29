@@ -99,13 +99,6 @@ Sample HR Policy and invoices are located inside the project:
 - [x] Streamlit UI for demo
 - [ ] Advanced error handling (basic implemented)
 - [ ] Multiprocessing (can be added)
-
-## 🎥 Demo Instructions
-> You should create a 2-min Loom video showing:
-> - Invoice Upload + Policy upload (analyze endpoint)
-> - Asking chatbot queries like:
->   - "What invoices were fully reimbursed for Rekha?"
->   - "Which invoices were declined and why?"
-
+      
 ## 📌 Author
 Manohar — 2024 Year AI/ML Project
