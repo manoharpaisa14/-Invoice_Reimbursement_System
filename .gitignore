@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables
+.env
+
+# OS/Editor files
+.DS_Store
+*.log

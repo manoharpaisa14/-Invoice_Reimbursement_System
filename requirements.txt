@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+PyMuPDF
+langchain
+openai
+sentence-transformers
+faiss-cpu
+chromadb
+pydantic
+python-multipart
+groq
+llama-index
+google-generativeai
+python-dotenv
+langchain-google-genai
